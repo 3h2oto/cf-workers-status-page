@@ -27,7 +27,7 @@ You can either deploy with **Cloudflare Deploy Button** using GitHub Actions or 
 
 ### Deploy with Cloudflare Deploy Button
 
-[![Deploy to Cloudflare Workers](https://camo.githubusercontent.com/1f3d0b4d44a2c3f12c78bd02bae907169430e04d728006db9f97a4befa64c886/68747470733a2f2f6465706c6f792e776f726b6572732e636c6f7564666c6172652e636f6d2f627574746f6e3f706169643d74727565)](https://deploy.workers.cloudflare.com/?url=https://github.com/eidam/cf-workers-status-page)
+[![Deploy to Cloudflare Workers]([https://camo.githubusercontent.com/a6a62f7aa795c8f201556b7517908b7a1d4a30b318b699acd394e5f8af3a6972/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c6f7564666c6172652d4636393635323f7374796c653d666c6174266c6f676f3d636c6f7564666c617265266c6f676f436f6c6f723d7768697465])(https://deploy.workers.cloudflare.com/?url=https://github.com/3h2oto/cf-workers-status-page)
 
 1. Click the button and follow the instructions, you should end up with a clone of this repository
 2. Navigate to your new **GitHub repository &gt; Settings &gt; Secrets** and add the following secrets:
